@@ -22,7 +22,7 @@ public class HealthSystem : MonoBehaviour
     private void Update()
     {
         // Saðlýk deðeri ekrana yazdýr
-        Debug.Log("Current Health: " + currentHealth);
+        
     }
 
     private void DecreaseHealth()

@@ -13,6 +13,7 @@ TagManager:
   - Closet
   - Door
   - Arcade
+  - ArcadeMachine
   layers:
   - Default
   - TransparentFX
